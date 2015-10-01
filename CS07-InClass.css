@@ -1,0 +1,15 @@
+table {width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: arial;
+		background-color: pink;
+		}
+	tr, td {border:1px solid black; padding:3px; vertical-align: top;}
+	img { width:100%;}
+	td#name {width:70%;
+	}
+	td#name2 {width:30%;
+	}
+	td#name3 {width: 70%;}
+	td.cell {width:35%;}
+	
