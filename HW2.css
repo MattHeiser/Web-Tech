@@ -1,0 +1,29 @@
+body {font-family: Arial;
+		color: navy;}
+caption {text-align: center;
+		font-size: xx-large;}
+table {width:70%;
+		border-collapse: separate;
+		border: 3px black solid;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		margin-right: auto;
+		margin-left: auto;
+		background-color: silver;
+		
+		}
+td, tr {border: 2px black solid;
+		vertical-align: center;
+		text-align: center;}
+		
+.Heading {background-color: yellow;}
+img {float: left;}
+td {border: 2px black thick;}
+#picture {width: 33%;
+			padding: 10px;
+			}
+.size {height: 50%;}
+.gold {background-color: lime;}
+th {background-color: white;
+	font-style: italic;
+	font-weight: bold;}
